@@ -3,7 +3,7 @@
 
 
 To run the program you need to:
-1. Download <b> ```github.py```</b> and <b> ```requiremets.txt```</b> from this repository.
+1. Download <b> ```github.py```</b> and <b> ```requirements.txt```</b> from this repository.
 2. Install the requiremenets by typing <b> ```pip install -r requirements.txt```</b>.
 
 You will then be prompted to enter a Github user and a token.
